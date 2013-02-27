@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Finalist feature: Node type Page feature.
+ */
+
+include_once 'finalist_feature_node_type_page.features.inc';
